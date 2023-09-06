@@ -1,0 +1,16 @@
+{
+  "name": "klevetsvlada/simplewpplugin",
+  "description": "Generate random password of a given length",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Andrii Ozhytchuk",
+      "email": "ozhytchuk@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
