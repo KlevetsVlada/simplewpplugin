@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name:  Simple Test
+Plugin Name:  Simple Plugin for WP
 Plugin URI:   https://www.test.com
 Description:  A short little description of the plugin. It will be displayed on the Plugins page in WordPress admin area.
 Version:      1.0.0
